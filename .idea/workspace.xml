@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22838b14-f3f9-4f9a-9dd2-5518c64ec48d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tp/tp1/exercice.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp/tp2/formation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp/tp2/stagiaire.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/tp3/adresse.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/tp3/liste-personnes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/tp3/personne.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tab/exo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tab/exo.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,11 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/../jspreadsheet/jspreadsheet/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tp" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +69,7 @@
       <workItem from="1621597718868" duration="1230000" />
       <workItem from="1622798776922" duration="8093000" />
       <workItem from="1623398071321" duration="9798000" />
-      <workItem from="1624006673001" duration="3747000" />
+      <workItem from="1624006673001" duration="5501000" />
     </task>
     <servers />
   </component>
@@ -85,10 +89,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="325" y="104" key="#com.intellij.ide.util.MemberChooser" timestamp="1624007982862">
+    <state x="325" y="104" key="#com.intellij.ide.util.MemberChooser" timestamp="1624011263806">
       <screen x="0" y="0" width="1024" height="768" />
     </state>
-    <state x="325" y="104" key="#com.intellij.ide.util.MemberChooser/0.0.1024.768@0.0.1024.768" timestamp="1624007982862" />
+    <state x="325" y="104" key="#com.intellij.ide.util.MemberChooser/0.0.1024.768@0.0.1024.768" timestamp="1624011263806" />
     <state x="21" y="25" width="982" height="703" key="SettingsEditor" timestamp="1624006747002">
       <screen x="0" y="25" width="1024" height="703" />
     </state>

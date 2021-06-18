@@ -33,3 +33,14 @@ let moyenne = tabRacineCarre.reduce(
         total + value/tabRacineCarre.length)
 
 let phrase  = tabString.reduce((total, value) => total+" "+value);
+
+
+let moy =  tab
+    .filter(value => (typeof value) == 'number')
+    .map(value => {
+        if ((typeof value) == 'number') {
+            // @ts-ignore
+            return Math.sqrt(value);
+        }})
+    .reduce((total, value) =>
+        total + value/tabRacineCarre.length)
